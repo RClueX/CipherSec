@@ -10,6 +10,8 @@ The key features of the Password Checker are:
 •	Check password strength using graphical user interface
 •	Generate unbreakable password using command line interface
 •	Generate unbreakable password using graphical user interface
+
+
 3.	Running different python scripts from the 'script-main' directory based on the user's choice
 4.	Using subprocess.call() to run other python scripts
 5.	Using os.path.abspath() and os.path.dirname() method to get the current directory of the script and then join the directory name to form the relative path to the desired directory.
@@ -76,7 +78,7 @@ The CipherSec tool has a lot of potential for future development. Here are a few
 9.	Overall, the future scope of the CipherSec tool is to provide a comprehensive, secure and easy-to-use password management solution that can be easily integrated with other apps and services, and that can adapt to the changing needs of users over time.
 
 Conclusion
-	The CipherSec tool is a powerful and comprehensive password management solution that aims to help users secure their online accounts by providing them with strong, unique and unbreakable passwords. The tool includes a password generator, a password strength assessment module, a secure storage feature and user-friendly interface. Additionally, it also provides option to check the strength of the password in both command line interface and graphical user interface as well as generating password in both ways. The tool also uses user's name and password phrase to make the password more memorable. The tool has a lot of potential for future development, including mobile app integration, cloud-based storage, integration with other apps and services, Machine learning, Two Factor Authentication, Automated password rotation, regular updates, and advanced analytics. With regular updates and security features, the SINS CipherSec tool can adapt to the changing needs of users over time and provide a reliable and secure solution for managing their online account passwords.
+	The CipherSec tool is a powerful and comprehensive password management solution that aims to help users secure their online accounts by providing them with strong, unique and unbreakable passwords. The tool includes a password generator, a password strength assessment module, a secure storage feature and user-friendly interface. Additionally, it also provides option to check the strength of the password in both command line interface and graphical user interface as well as generating password in both ways. The tool also uses user's name and password phrase to make the password more memorable. The tool has a lot of potential for future development, including mobile app integration, cloud-based storage, integration with other apps and services, Machine learning, Two Factor Authentication, Automated password rotation, regular updates, and advanced analytics. With regular updates and security features, the CipherSec tool can adapt to the changing needs of users over time and provide a reliable and secure solution for managing their online account passwords.
 
 Reference
 Here are a few references you can use to learn more about password management and security:
