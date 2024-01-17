@@ -7,7 +7,7 @@
 
 A python script to help people secure their online accounts by generating strong, unique passwords and storing them in a secure manner and help people assess the strength of their passwords and generate new, stronger passwords if necessary. This could involve creating a simple password checker.
 
-*CipherSec** is being actively developed by [@Jkrathod](https://github.com/Jkrathod) 
+*CipherSec** is being actively developed by [@Jkrathod](https://github.com/RClueX) 
 Table of Contents
 ------------
 * [Installation](#installation--usage)
@@ -25,7 +25,7 @@ Installation & Usage
 
 Choose one of these installation options:
 
-- Install with **git**: `https://github.com/Jkrathod/CipherSec.git`
+- Install with **git**: `https://github.com/RClueX/CipherSec.git`
 - Install **Requirements** `pip3 install -r requirements.txt`
 
 Configuration
